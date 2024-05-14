@@ -3,7 +3,7 @@ Predicting NBA players' three-point percentages at the end of the 2022-23 season
 
 This project was completed as a part of the NBA Future Analytics Stars Program's interview process.
 The goal was to predict each player’s three-point percentage at the end of the 2022-23 season given their shooting statistics from October/November 2022. 
-In order to so, applicants were provided with a CSV dataset, containing 12 features (various shooting statistics), and a target variable, three_pct_season. 
+In order to so, applicants were provided with a CSV dataset, containing 12 features (various shooting statistics), and a target variable, three_pct_season, which I am unable to share.  
 
 ## Notes & Assumptions:
 1. Only using data from the csv file provided (subset of 108 players)
