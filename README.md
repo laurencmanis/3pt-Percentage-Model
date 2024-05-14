@@ -25,3 +25,6 @@ In order to so, applicants were provided with a CSV dataset, containing 12 featu
 - three_non_cnr_shots_oct_nov - the player's total shot attempts from non-corner shot attempts from three point range in october and november
 - three_cnr_shots_oct_nov - the player's total shot attempts from corner shot attempts from three point range in october and november
 - ft_shots_oct_nov - the player's free throw attempts in october and november
+
+## Conclusions
+For further information on the model and results, please reveiew the PDF slide deck.
